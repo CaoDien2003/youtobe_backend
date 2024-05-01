@@ -1,11 +1,15 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "nodejs",
-  "main": "server.js",
+  "description": "a backend youtobe",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
   "author": "Nguyen Cao Dien",
   "license": "ISC"
 }
